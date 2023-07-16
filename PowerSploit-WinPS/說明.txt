@@ -1,0 +1,8 @@
+ActivirusBypass：發現殺毒軟體的查殺特徵
+CodeExecution：在目標主機上執行代碼
+Exfiltration：目標主機上的資訊搜集工具
+Mayhem：藍屏等破壞性的腳本
+Persistence：後門腳本
+Privsec：提權等腳本
+Recon：以目標主機為跳板進行內網信息偵查
+ScriptModification：在目標主機上創建或修改腳本
